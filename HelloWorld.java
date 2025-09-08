@@ -8,7 +8,8 @@
 
 class HelloWorld {
     public static void main(String[]args){
-        // This program prints out " Hello world" 
-        System.out.println ("Hello world")
+        // This program prints out " Hello, comrade Kim Jong Un and 한국어로 된 단어 " 
+        System.out.println ("Hello, comrade Kim Jong Un");
+        System.out.println ("한국어로 된 단어");
     }
 }
